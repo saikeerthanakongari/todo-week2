@@ -11,7 +11,7 @@ Open http://localhost:5173
 ## Demo
 Short demo (MP4/GIF) showing add/edit/delete, filters, marking complete, and persistence:
 `demo.mp4` (included in repo)  
-Or link: https://link-to-demo-if-you-hosted-it
+
 
 ## Notes
 - Uses `useState` and `useEffect`.  
