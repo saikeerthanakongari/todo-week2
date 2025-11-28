@@ -12,7 +12,6 @@ Open http://localhost:5173
 Short demo (MP4/GIF) showing add/edit/delete, filters, marking complete, and persistence:
 `demo.mp4` (included in repo)  
 
-
 ## Notes
 - Uses `useState` and `useEffect`.  
 - Tasks are saved to `localStorage` under key `todo_week2_tasks`.
